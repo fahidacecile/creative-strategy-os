@@ -6,6 +6,20 @@ Creative Strategy OS turns brand context, customer language, competitor signals,
 
 **Built by:** [Fahida Cécile](https://github.com/fahidacecile), Growth Marketer & BI Analyst
 
+## Product preview
+
+### Project intake and strategy modes
+
+![Creative Strategy OS project intake and strategy modes](assets/01-overview.jpg)
+
+### Evidence-to-delivery workflow
+
+![Creative Strategy OS evidence-to-delivery workflow](assets/02-workflow.jpg)
+
+### Deliverables workspace
+
+![Creative Strategy OS deliverables workspace](assets/03-deliverables.jpg)
+
 ## The problem
 
 Creative teams rarely lack ideas. They lack a reliable way to connect customer evidence, competitive context, creative diversity, and production decisions.
