@@ -112,18 +112,7 @@ Depending on the selected mode, the system can produce:
 4. **Traceability over black-box generation** — major decisions should remain connected to their supporting evidence.
 5. **Useful outputs over impressive documents** — deliverables must help a team decide, produce, test, and learn.
 
-## Public case study, private engine
 
-This repository documents the product vision, methodology, workflow, and selected sanitized examples.
-
-The proprietary implementation remains private, including:
-
-- Full skill instructions and prompt architecture
-- Agent configurations and review rubrics
-- Research collection and orchestration logic
-- Monitoring workflows and source connectors
-- Internal templates, scoring rules, and automation
-- Client data and generated project records
 
 ## Current development focus
 
