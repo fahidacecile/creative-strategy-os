@@ -1,17 +1,16 @@
 # Creative Strategy OS
 
-**Evidence-led creative intelligence for paid social.**
+**From customer and market evidence to clear creative direction.**
 
 Creative Strategy OS turns brand context, customer language, competitor signals, and advertising data into differentiated creative concepts, production-ready briefs, and approved Meta copy.
 
-> **Product status:** Private working prototype · Public product case study  
-> **Built by:** [Fahida Cécile](https://github.com/fahidacecile), Growth Marketer & BI Analyst
+**Built by:** [Fahida Cécile](https://github.com/fahidacecile), Growth Marketer & BI Analyst
 
 ## The problem
 
 Creative teams rarely lack ideas. They lack a reliable way to connect customer evidence, competitive context, creative diversity, and production decisions.
 
-Research is often scattered across review platforms, ad libraries, documents, and dashboards. Creative Strategy OS brings those inputs into one governed workflow so that each recommendation can be traced back to real evidence.
+Research is often scattered across review platforms, ad libraries, documents, and dashboards. Creative Strategy OS brings those inputs into one structured workflow so that each recommendation can be traced back to real evidence.
 
 ## What the system does
 
@@ -112,18 +111,8 @@ Depending on the selected mode, the system can produce:
 4. **Traceability over black-box generation** — major decisions should remain connected to their supporting evidence.
 5. **Useful outputs over impressive documents** — deliverables must help a team decide, produce, test, and learn.
 
-
-
-## Current development focus
-
-The working prototype currently structures project intake, methodology, quality gates, saved project records, and delivery workflows. The next product layer focuses on direct data-source connections, end-to-end orchestration, and automated reporting.
-
 ## About the builder
 
 I am **Fahida Cécile**, a Growth Marketer and BI Analyst building practical systems at the intersection of data, creative strategy, and growth.
 
 [View my GitHub profile](https://github.com/fahidacecile)
-
----
-
-*Creative Strategy OS is an independent product case study. All proprietary workflows and implementation details are reserved.*
