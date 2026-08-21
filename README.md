@@ -6,6 +6,24 @@ Creative Strategy OS turns brand context, customer language, competitor signals,
 
 **Built by:** [Fahida Cécile](https://github.com/fahidacecile), Growth Marketer & BI Analyst
 
+## What I designed and built
+
+Drawing on everything I’ve learned about creative strategy, I created Creative Strategy OS with Claude to automate parts of my research process and make it more structured, consistent, and easier to turn into clear creative decisions.
+
+The project grew from a practical challenge: research was spread across brand websites, customer reviews, competitor advertising, documents, and different analysis tools. I wanted one clear process for moving from raw information to useful creative direction.
+
+I designed:
+
+- The research process and the information required for each project.
+- Two workflows: Full Creative Strategy and Creative Gap Audit.
+- The framework for identifying persona, awareness, and creative diversity gaps.
+- The steps for turning research into concepts, briefs, and paid-social copy.
+- The quality checks used before a deliverable is considered ready.
+- The structure of the final reports and creative deliverables.
+- A working prototype that shows how the complete process fits together.
+
+Claude helped me build and automate the workflow, while the methodology, decision rules, quality standards, and product direction come from my creative strategy process.
+
 ## Product preview
 
 ### Project intake and strategy modes
